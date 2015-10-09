@@ -16,3 +16,4 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 Worked Completed So Far
 
 1. 07-Strating Migrations_Xampp
+2. 08-Changing User Fields
