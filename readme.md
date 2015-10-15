@@ -20,3 +20,4 @@ Worked Completed So Far
 3. 09-User Tinker (Tinker terminates early on Cygwin)
 4. 10-Seeding the Database
 5. 11-Using Faker
+6. Marked by Stephan (16-10-2015)
